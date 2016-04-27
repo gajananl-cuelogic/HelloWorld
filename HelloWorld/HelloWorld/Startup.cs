@@ -8,6 +8,7 @@ namespace HelloWorld
     {
         public void Configuration(IAppBuilder app)
         {
+            //updated on 4/27/2026 3.28
             ConfigureAuth(app);
         }
     }
